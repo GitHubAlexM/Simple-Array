@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\FindPriceWithForLoop\bin\Debug\FindPriceWithForLoop.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\FindPriceWithForLoop\bin\Debug\FindPriceWithForLoop.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\FindPriceWithForLoop\bin\Debug\FindPriceWithForLoop.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\FindPriceWithForLoop\obj\Debug\FindPriceWithForLoop.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\FindPriceWithForLoop\obj\Debug\FindPriceWithForLoop.pdb

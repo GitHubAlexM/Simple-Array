@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\DemoForEachWithEnum\bin\Debug\DemoForEachWithEnum.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\DemoForEachWithEnum\bin\Debug\DemoForEachWithEnum.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\DemoForEachWithEnum\bin\Debug\DemoForEachWithEnum.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\DemoForEachWithEnum\obj\Debug\DemoForEachWithEnum.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\SimpleArray\DemoForEachWithEnum\obj\Debug\DemoForEachWithEnum.pdb
